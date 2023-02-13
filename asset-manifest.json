@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/marioresume/static/css/main.073c9b0a.css",
-    "main.js": "/marioresume/static/js/main.e9bbd793.js",
-    "static/js/787.594bddda.chunk.js": "/marioresume/static/js/787.594bddda.chunk.js",
+    "main.css": "/marioresume/static/css/main.9cdb9778.css",
+    "main.js": "/marioresume/static/js/main.c4256323.js",
     "static/media/logo.svg": "/marioresume/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/marioresume/index.html",
-    "main.073c9b0a.css.map": "/marioresume/static/css/main.073c9b0a.css.map",
-    "main.e9bbd793.js.map": "/marioresume/static/js/main.e9bbd793.js.map",
-    "787.594bddda.chunk.js.map": "/marioresume/static/js/787.594bddda.chunk.js.map"
+    "main.9cdb9778.css.map": "/marioresume/static/css/main.9cdb9778.css.map",
+    "main.c4256323.js.map": "/marioresume/static/js/main.c4256323.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.e9bbd793.js"
+    "static/css/main.9cdb9778.css",
+    "static/js/main.c4256323.js"
   ]
 }
