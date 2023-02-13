@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/marioresume/static/css/main.9cdb9778.css",
-    "main.js": "/marioresume/static/js/main.e3f41614.js",
+    "main.js": "/marioresume/static/js/main.a5eebf8c.js",
     "index.html": "/marioresume/index.html",
     "main.9cdb9778.css.map": "/marioresume/static/css/main.9cdb9778.css.map",
-    "main.e3f41614.js.map": "/marioresume/static/js/main.e3f41614.js.map"
+    "main.a5eebf8c.js.map": "/marioresume/static/js/main.a5eebf8c.js.map"
   },
   "entrypoints": [
     "static/css/main.9cdb9778.css",
-    "static/js/main.e3f41614.js"
+    "static/js/main.a5eebf8c.js"
   ]
 }
