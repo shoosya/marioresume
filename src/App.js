@@ -1,3 +1,4 @@
+import "nes.css/css/nes.min.css";
 import logo from "./logo.svg";
 import "./App.css";
 
