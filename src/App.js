@@ -1,14 +1,21 @@
 import "nes.css/css/nes.min.css";
-import "./App.css";
+import styled from "styled-components";
+import Hero from "./Components/hero";
+import Bio from "./Components/bio";
+
+const Container = styled.div`
+  display: flex;
+  flex-direction: column;
+  background-color: ${(props) => props.color};
+  width: 70%;
+`;
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <i className="nes-mario"></i>
-        <p>Hello, it&apos;s a me, Mario!</p>
-      </header>
-    </div>
+    <Container className="App">
+      <Hero></Hero>
+      <Bio></Bio>
+    </Container>
   );
 }
 
