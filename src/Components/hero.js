@@ -1,4 +1,3 @@
-// import styled from "styled-components";
 import NesContainer from "./nes-container";
 
 const Hero = () => (
