@@ -13,7 +13,7 @@ const NesItem = styled.div`
 `;
 
 const Bio = () => (
-  <NesContainer title={"It's a Me"}>
+  <NesContainer title={"Biography"}>
     <FlexContainer justify="space-evenly">
       <FlexItem>
         <NesItem>
